@@ -1,1 +1,1 @@
-See https://habr.com/ru/post/179789/ & https://github.com/GlukKazan/mg
+See:https://github.com/GlukKazan/mg & https://habr.com/ru/post/179789/
