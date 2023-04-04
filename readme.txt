@@ -1,3 +1,3 @@
-Base: https://github.com/GlukKazan/mg
-See: https://habr.com/ru/post/179789
-And: https://habr.com/ru/post/181378
+https://github.com/GlukKazan/mg
+https://habr.com/ru/post/179789
+https://habr.com/ru/post/181378
